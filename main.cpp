@@ -6,6 +6,7 @@ void imprimir(int a[],int n);
 void burbuja(int a[],int n);
 
 
+
 int main()
 {
 
@@ -30,7 +31,7 @@ void ingresar(int a[],int n)
     int i;
     for(i=0;i<n;i++)
     {
-        cout<<"Ingrese el elemeneto al arreglo:"<<endl;
+        cout<<"Ingrese el elemeneto al arreglo:"<<i+1<<endl;
         cin>>a[i];
     }
 
