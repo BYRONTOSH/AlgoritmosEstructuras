@@ -26,6 +26,8 @@ int main()
 }
 
 
+
+//ESTA ES UNA FUNCIÓN PARA INGRESAR DATOS EN EL ARREGLO
 void ingresar(int a[],int n)
 {
     int i;
@@ -37,6 +39,7 @@ void ingresar(int a[],int n)
 
 }
 
+//ESTA ES UNA FUNCIÓN PARA IMPRIMIR LOS DATOS DEL ARREGLO
 void imprimir(int a[],int n)
 {
     int i;
