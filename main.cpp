@@ -6,7 +6,7 @@ void imprimir(int a[],int n);
 void burbuja(int a[],int n);
 
 
-
+//ESTO ES LA FUNCIÓN PRINCIPAL MAIN
 int main()
 {
 
